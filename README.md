@@ -3,7 +3,7 @@
 
 the first project of 50 projects in 50 days challenge
 
-# Live Demo : <a href="[https://abdellahak.github.io/number1of50projects/](https://abdellahak.github.io/50projects50days-Day1/)">Visit link</a>
+# Live Demo : <a href="https://abdellahak.github.io/50projects50days-Day1/">Visit link</a>
 
 ## a preview of the project :
 ![](https://github.com/abdellahak/50projects50days-Day1/blob/main/Day1Project.gif)
